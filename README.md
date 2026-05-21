@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ██╗███████╗██╗██╗      ██████╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗     ██╗
-████╗  ██║██╔════╝██║██║     ██╔════╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║     ██║
-██╔██╗ ██║█████╗  ██║██║     ██║     ███████║██╔██╗ ██║███████║██╔██╗ ██║     ██║
-██║╚██╗██║██╔══╝  ██║██║     ██║     ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██   ██║
-██║ ╚████║███████╗██║███████╗╚██████╗██║  ██║██║ ╚████║██║  ██║██║ ╚████║╚█████╔╝
-╚═╝  ╚═══╝╚══════╝╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝
+███╗   ██╗███████╗██╗██╗     
+████╗  ██║██╔════╝██║██║     
+██╔██╗ ██║█████╗  ██║██║     
+██║╚██╗██║██╔══╝  ██║██║
+██║ ╚████║███████╗██║███████╗
+╚═╝  ╚═══╝╚══════╝╚═╝╚══════╝ 
 ```
 
 ### Full-Stack Engineer · AI Builder · Open Source Contributor
@@ -140,17 +140,7 @@ Goal       →  MS in Data Science / AI — TU Munich, TU Delft, or Eindhoven
 
 ---
 
-## GitHub stats
 
-<div align="center">
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neil-data&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0B1929&title_color=1D9E75&icon_color=4285F4&text_color=ffffff)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=neil-data&theme=dark&hide_border=true&background=0B1929&ring=1D9E75&fire=4285F4&currStreakLabel=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neil-data&theme=dark&hide_border=true&bg_color=0B1929&title_color=1D9E75&text_color=ffffff&layout=compact&langs_count=8)
-
-</div>
 
 ---
 
@@ -159,14 +149,9 @@ Goal       →  MS in Data Science / AI — TU Munich, TU Delft, or Eindhoven
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@neil--data-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neil-data)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/neil-banerjee07/?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-<br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=neil-data&icon=0&color=1)
-
-<br/>
 
 <img src="https://img.shields.io/badge/Made_with-❤️_in_India-FF9933?style=for-the-badge" />
 
